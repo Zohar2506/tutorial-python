@@ -121,8 +121,8 @@ def duplicate_todo(todoId):
             break
     return ('', 204)
 
-import rook
-rook.start(token='d1fee9a4a26620c993fb180677fad4ea6939677b82e6082265f889026f1cd71a', tags=["codefresh-rookout-webinar"])
+# import rook
+# rook.start(token='d1fee9a4a26620c993fb180677fad4ea6939677b82e6082265f889026f1cd71a', tags=["codefresh-rookout-webinar"])
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0')
