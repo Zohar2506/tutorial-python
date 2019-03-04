@@ -59,8 +59,8 @@ def index():
 @app.route('/todos/<todoId>', methods=['DELETE'])
 def del_todo(todoId):
     todos = Store.getInstance().todos
-    newTodos = [t for t in todos if t['id'] != todoId]
-    todos = newTodos
+    newTodos = [t for t in todos if t['id'] == todoId]
+    Store.getInstance().todos = newTodos
     return ('', 204)
 
 
