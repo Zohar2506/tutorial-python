@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c068a93b-8500-474a-808c-a809a9cf8209" name="Default Changelist" comment="adding deployment yaml" />
+    <list default="true" id="c068a93b-8500-474a-808c-a809a9cf8209" name="Default Changelist" comment="adding deployment yaml">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="63" column="20" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+            <state relative-caret-position="413">
+              <caret line="123" selection-start-line="123" selection-end-line="125" />
             </state>
           </provider>
         </entry>
@@ -140,7 +142,7 @@
       <workItem from="1550567530176" duration="1431000" />
       <workItem from="1551031980410" duration="2315000" />
       <workItem from="1551194241530" duration="829000" />
-      <workItem from="1551617424161" duration="3984000" />
+      <workItem from="1551617424161" duration="4019000" />
     </task>
     <task id="LOCAL-00001" summary="adding deployment yaml">
       <created>1550137753721</created>
@@ -153,7 +155,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12875000" />
+    <option name="totallyTimeSpent" value="12910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
@@ -230,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="63" column="20" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+        <state relative-caret-position="413">
+          <caret line="123" selection-start-line="123" selection-end-line="125" />
         </state>
       </provider>
     </entry>
