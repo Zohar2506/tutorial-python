@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c068a93b-8500-474a-808c-a809a9cf8209" name="Default Changelist" comment="adding deployment yaml">
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-    </list>
+    <list default="true" id="c068a93b-8500-474a-808c-a809a9cf8209" name="Default Changelist" comment="adding deployment yaml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
@@ -143,7 +140,7 @@
       <workItem from="1550567530176" duration="1431000" />
       <workItem from="1551031980410" duration="2315000" />
       <workItem from="1551194241530" duration="829000" />
-      <workItem from="1551617424161" duration="4668000" />
+      <workItem from="1551617424161" duration="4781000" />
     </task>
     <task id="LOCAL-00001" summary="adding deployment yaml">
       <created>1550137753721</created>
@@ -156,11 +153,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13559000" />
+    <option name="totallyTimeSpent" value="13672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13797314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
